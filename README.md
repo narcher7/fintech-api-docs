@@ -1,6 +1,6 @@
 # fintech-api-docs
 
-When creating this test user guide, I used the following tools and procedures:
+When creating this test user guide, I used the following procedure:
 
 1. I implemented a directory structure which would allow for the addition of future API pages. This includes adding metadata such as `nav_order` to the top of the page.
 2. Based on the data in the API spec, I wrote an initial intro.
